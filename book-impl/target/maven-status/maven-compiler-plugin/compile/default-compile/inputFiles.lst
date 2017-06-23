@@ -1,0 +1,8 @@
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/events/BookEvent.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/events/BookEventProcessor.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/events/BookEventTag.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/states/BookStates.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/BookServiceImpl.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/BookEntity.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/commands/BookCommand.java
+/home/knoldus/lagom_workspace/lagom-java-crud/book-impl/src/main/java/BookModule.java

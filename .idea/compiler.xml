@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="book-api" />
+        <module name="book-impl" />
+        <module name="movie-api" />
+        <module name="movie-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-api" target="1.8" />
+      <module name="book-impl" target="1.8" />
+      <module name="lagom-java-crud" target="1.8" />
+      <module name="library-crud" target="1.8" />
+      <module name="movie-api" target="1.8" />
+      <module name="movie-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
