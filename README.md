@@ -16,30 +16,3 @@ https://github.com/knoldus/lagom-java-crud.git
 `mvn lagom:runAll`
 
 ## Json Formats for different Rest services are mentioned below :
-
-#### 1. Create Movie:
-
-Route(Method - POST) : `localhost:9000/api/new-movie`
-
-Rawdata(json): 
-    {
-	"id": "1",
-	"name": "Avengers",
-	"genre": "Action"
-    }
-
-
-#### 2. Update Movie:
-
-Route(Method - PUT) : `localhost:9000/api/update-movie/:id`
-    
-
-#### 3. Delete Movie:
-
-Route(Method - DELETE) : `localhost:9000/api/delete-movie/:id`
-    
-
-#### 4. Get Movie details:
-
-Route(Method - GET) : `localhost:9000/api/movie/:id`
-
