@@ -127,7 +127,7 @@
 
         <lagom.version>1.3.0</lagom.version>
         <play.version>2.5.10</play.version>
-        <akka.version>2.4.16</akka.version>
+        <akka.version>2.5.31</akka.version>
         <conductr.lib.name>lagom10-conductr-bundle-lib_2.11</conductr.lib.name>
     </properties>
 </project>
